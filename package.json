@@ -8,6 +8,16 @@
 	"docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simple-Coder/blog-demo.git"
+  },
+   "author": "handsome_hou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simple-Coder/blog-demo/issues"
+  },
+  "homepage": "https://github.com/Simple-Coder/blog-demo#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
