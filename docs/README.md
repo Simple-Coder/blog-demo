@@ -4,7 +4,7 @@ heroImage: /img/logo.gif
 heroText: 沫沫的技能树
 tagline: 路漫漫其修远兮，吾将上下而求索
 actionText: Go Go →
-actionLink: /blog/FirstBlog
+actionLink: /
 features:
 - title: JAVA基础
   details: 熟悉IO、多线程、集合等基础框架

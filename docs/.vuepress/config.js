@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '/notes',
   title: '沫沫儿的技能树',
   description: '沫沫儿的技能树',
   head: [
